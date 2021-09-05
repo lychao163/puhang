@@ -1,4 +1,4 @@
-package cn.org.xian;
+package cn.xian;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

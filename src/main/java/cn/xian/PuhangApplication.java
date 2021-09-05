@@ -1,4 +1,4 @@
-package cn.org.xian;
+package cn.xian;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

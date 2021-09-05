@@ -8,7 +8,7 @@
         <version>2.5.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>cn.org.xian</groupId>
+    <groupId>cn.xian</groupId>
     <artifactId>puhang-transit-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>puhang</name>
